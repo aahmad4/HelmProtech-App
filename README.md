@@ -63,7 +63,7 @@ Since our machine learning model files were too large to upload directly on GitH
 ## Clone
 
 ```
-git clone https://github.com/vgadodia/HelmProtech
+git clone https://github.com/aahmad4/HelmProtech-Safety-App
 ```
 
 ## Installation
