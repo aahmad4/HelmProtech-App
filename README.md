@@ -1,12 +1,24 @@
-# HelmProtech <img src="the_logo.png" align="right" alt="Logo">
+<p align="center">
+  <img src="the_logo.png" align="" alt="Logo">
+</p>
 
+<h1 align="center">HelmProtech</h1> 
+
+<p align="center">
 This project was done for the DefHacks Virtual 2020 Hackathon. The competitions main theme was creating something to help with health and general well being of others. We decided to create an application that helps with safety on the road by detecting if somebody riding a bike or motorcycle is not wearing proper safety gear such as a helmet. Our Flask application take an input of images of motorcycle riders on the street. With these images, we use YOLO to find the number of motorcycles and the number of helmets in the picture and subtract that amount. If we find that there are more motorcycles than helmets (signifying that there are some riders not wearing the proper gear), we scan the license plates and map the plates to the motorcyclist that wasn't wearing a helmet, then use OCR to find and save the license plate which violated the rules.
+</p>
 
+<p align="center">
 A link to our devpost submission can be found here: https://devpost.com/software/helmprotech
+</p>
 
+<p align="center">
 A link to our YouTube demo video can be found here: https://youtu.be/1SbBZqdJNU0
+</p>
 
+<p align="center">
 The app is currently deployed to Google Cloud Platform here: https://helmprotech.uk.r.appspot.com/
+</p>
 
 ## Screenshots 
 
