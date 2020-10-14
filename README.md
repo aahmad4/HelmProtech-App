@@ -9,15 +9,15 @@ This project was done for the DefHacks Virtual 2020 Hackathon. The competitions 
 </p>
 
 <p align="center">
-A link to our devpost submission can be found here: https://devpost.com/software/helmprotech
+A link to our devpost submission can be found here: <a href="https://devpost.com/software/helmprotech" target="_blank">devpost.com/software/helmprotech</a>
 </p>
 
 <p align="center">
-A link to our YouTube demo video can be found here: https://youtu.be/1SbBZqdJNU0
+A link to our YouTube demo video can be found here: <a href="https://youtu.be/1SbBZqdJNU0" target="_blank">youtu.be/1SbBZqdJNU0</a>
 </p>
 
 <p align="center">
-The app is currently deployed to Google Cloud Platform here: https://helmprotech.uk.r.appspot.com/
+The app is currently deployed to Google Cloud Platform here: <a href="https://helmprotech.uk.r.appspot.com/" target="_blank">helmprotech.uk.r.appspot.com</a>
 </p>
 
 ## Screenshots 
@@ -71,15 +71,17 @@ In addition, we created an accompanying web application using Flask, HTML, CSS, 
 
 ## Model
 
-Since our machine learning model files were too large to upload directly on GitHub, we uploaded them on Google Drive and anyone can view them. Simple go to the following link and download the two model files and put them in the same directory as `yolo.py`. The link can be found here: https://drive.google.com/drive/folders/14T1uJKfgjzyrUZ81dwg5Sxee44Vcs5Ln?usp=sharing
+Since our machine learning model files were too large to upload directly on GitHub, we uploaded them on Google Drive and anyone can view them. Simple go to the following link and download the two model files and put them in the same directory as `yolo.py`. The link can be found [here](https://drive.google.com/drive/folders/14T1uJKfgjzyrUZ81dwg5Sxee44Vcs5Ln?usp=sharing).
 
-## Clone
+## Setup
+
+#### Clone
 
 ```
-git clone https://github.com/aahmad4/HelmProtech-Safety-App
+git clone https://github.com/aahmad4/HelmProtech
 ```
 
-## Installation
+#### Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
 
@@ -87,7 +89,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install -r requirements.txt
 ```
 
-## Usage
+#### Usage
+```
+cd HelmProtech
+```
 
 ```
 export FLASK_APP=main.py
