@@ -16,10 +16,6 @@ A link to our devpost submission can be found here: <a href="https://devpost.com
 A link to our YouTube demo video can be found here: <a href="https://youtu.be/1SbBZqdJNU0" target="_blank">youtu.be/1SbBZqdJNU0</a>
 </p>
 
-<p align="center">
-The app is currently deployed to Google Cloud Platform here: <a href="https://helmprotech.uk.r.appspot.com/" target="_blank">helmprotech.uk.r.appspot.com</a>
-</p>
-
 ## Screenshots 
 
 This is a sneak peek at our landing page. We describe our mission, function, and how the entire software package works. 
